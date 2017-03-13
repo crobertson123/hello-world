@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-Exploring
+Exploring, that's all.
